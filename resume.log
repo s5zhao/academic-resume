@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.14)  4 AUG 2024 00:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2021.1.14)  4 AUG 2024 00:38
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -490,13 +490,13 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
 Package: bibentry 2007/10/30 1.5 (PWD)
 )
 \bibdata{resume.bib}
-No file resume.bbl.
+(./resume.bbl)
 (d:/TEX/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count194
 \l__pdf_internal_box=\box53
 )
-No file resume.aux.
+(./resume.aux)
 \openout1 = `resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 96.
@@ -518,7 +518,7 @@ LaTeX Font Info:    ... okay on input line 96.
 LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 96.
 LaTeX Font Info:    Trying to load font information for MDA+cmr on input line 9
 6.
-(d:/TEX/texlive/2020/texmf-dist/tex/latex/mathdesign/mdacmr.fd
+ (d:/TEX/texlive/2020/texmf-dist/tex/latex/mathdesign/mdacmr.fd
 File: mdacmr.fd 
 )
 LaTeX Font Info:    ... okay on input line 96.
@@ -570,8 +570,10 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 96.
 LaTeX Info: Redefining \pageref on input line 96.
 LaTeX Info: Redefining \nameref on input line 96.
+(./resume.out) (./resume.out)
 \@outlinefile=\write3
 \openout3 = `resume.out'.
+
 
 
 LaTeX Warning: No positions in optional float specifier.
@@ -656,87 +658,87 @@ LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
 (Font)              scaled to size 9.60007pt on input line 106.
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
 (Font)              scaled to size 19.91054pt on input line 106.
-<imgs/location(1).pdf, id=4, 76.03406pt x 76.03406pt>
+<imgs/location(1).pdf, id=20, 76.03406pt x 76.03406pt>
 File: imgs/location(1).pdf Graphic file (type pdf)
 <use imgs/location(1).pdf>
 Package pdftex.def Info: imgs/location(1).pdf  used on input line 109.
 (pdftex.def)             Requested size: 9.21349pt x 9.21301pt.
-<imgs/githubpage.pdf, id=5, 150.5625pt x 150.5625pt>
-File: imgs/githubpage.pdf Graphic file (type pdf)
-<use imgs/githubpage.pdf>
-Package pdftex.def Info: imgs/githubpage.pdf  used on input line 109.
-(pdftex.def)             Requested size: 52.03062pt x 52.0314pt.
+<imgs/githubpage.png, id=21, 1029.8475pt x 1029.8475pt>
+File: imgs/githubpage.png Graphic file (type png)
+<use imgs/githubpage.png>
+Package pdftex.def Info: imgs/githubpage.png  used on input line 109.
+(pdftex.def)             Requested size: 46.61334pt x 46.60828pt.
 
-Overfull \vbox (19.63144pt too high) detected at line 109
+Overfull \vbox (14.20831pt too high) detected at line 109
  []
 
-<imgs/email(1).pdf, id=6, 75.28125pt x 75.28125pt>
+<imgs/email(1).pdf, id=23, 75.28125pt x 75.28125pt>
 File: imgs/email(1).pdf Graphic file (type pdf)
 <use imgs/email(1).pdf>
 Package pdftex.def Info: imgs/email(1).pdf  used on input line 110.
 (pdftex.def)             Requested size: 9.21349pt x 9.21255pt.
-<imgs/home(1).pdf, id=7, 173.34412pt x 173.34412pt>
+<imgs/home(1).pdf, id=24, 173.34412pt x 173.34412pt>
 File: imgs/home(1).pdf Graphic file (type pdf)
 <use imgs/home(1).pdf>
-Package pdftex.def Info: imgs/home(1).pdf  used on input line 111.
+Package pdftex.def Info: imgs/home(1).pdf  used on input line 112.
 (pdftex.def)             Requested size: 9.21349pt x 9.21259pt.
-<imgs/phone(1).pdf, id=9, 36.135pt x 36.135pt>
+<imgs/phone(1).pdf, id=26, 36.135pt x 36.135pt>
 File: imgs/phone(1).pdf Graphic file (type pdf)
 <use imgs/phone(1).pdf>
-Package pdftex.def Info: imgs/phone(1).pdf  used on input line 112.
+Package pdftex.def Info: imgs/phone(1).pdf  used on input line 113.
 (pdftex.def)             Requested size: 9.21349pt x 9.21346pt.
 LaTeX Font Info:    Font shape `T1/mdbch/m/fsc' will be
-(Font)              scaled to size 9.60007pt on input line 121.
+(Font)              scaled to size 9.60007pt on input line 122.
 LaTeX Font Info:    Font shape `T1/mdbch/m/fsc' will be
-(Font)              scaled to size 11.52008pt on input line 121.
+(Font)              scaled to size 11.52008pt on input line 122.
 LaTeX Font Info:    Trying to load font information for TS1+mdbch on input line
- 122.
+ 123.
 (d:/TEX/texlive/2020/texmf-dist/tex/latex/mathdesign/mdbch/ts1mdbch.fd
 File: ts1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for TS1/mdbch.
 )
 LaTeX Font Info:    Font shape `TS1/mdbch/m/n' will be
-(Font)              scaled to size 9.60007pt on input line 122.
+(Font)              scaled to size 9.60007pt on input line 123.
 LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
-(Font)              scaled to size 9.60007pt on input line 124.
+(Font)              scaled to size 9.60007pt on input line 125.
 LaTeX Font Info:    Font shape `T1/mdbch/m/it' will be
-(Font)              scaled to size 8.64006pt on input line 124.
+(Font)              scaled to size 8.64006pt on input line 125.
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
-(Font)              scaled to size 8.64006pt on input line 126.
+(Font)              scaled to size 8.64006pt on input line 127.
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
-(Font)              scaled to size 8.64006pt on input line 126.
+(Font)              scaled to size 8.64006pt on input line 127.
 LaTeX Font Info:    Font shape `T1/mdbch/b/it' will be
-(Font)              scaled to size 8.64006pt on input line 160.
+(Font)              scaled to size 8.64006pt on input line 161.
 LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 8.64006pt on input line 165.
+(Font)              scaled to size 8.64006pt on input line 166.
 LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 165.
+(Font)              scaled to size 5.76004pt on input line 166.
 LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 8.64006pt on input line 165.
+(Font)              scaled to size 8.64006pt on input line 166.
 LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
-(Font)              scaled to size 5.76004pt on input line 165.
+(Font)              scaled to size 5.76004pt on input line 166.
 LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 8.64006pt on input line 165.
+(Font)              scaled to size 8.64006pt on input line 166.
 LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 165.
+(Font)              scaled to size 5.76004pt on input line 166.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 8.64006pt on input line 165.
+(Font)              scaled to size 8.64006pt on input line 166.
 LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 165.
+(Font)              scaled to size 5.76004pt on input line 166.
 LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 8.64006pt on input line 165.
+(Font)              scaled to size 8.64006pt on input line 166.
 LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 165.
+(Font)              scaled to size 5.76004pt on input line 166.
 LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 8.64006pt on input line 165.
+(Font)              scaled to size 8.64006pt on input line 166.
 LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 165.
+(Font)              scaled to size 5.76004pt on input line 166.
 LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 8.64006pt on input line 165.
+(Font)              scaled to size 8.64006pt on input line 166.
 LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
-(Font)              scaled to size 5.76004pt on input line 165.
+(Font)              scaled to size 5.76004pt on input line 166.
 LaTeX Font Info:    Font shape `TS1/mdbch/m/n' will be
-(Font)              scaled to size 8.64006pt on input line 198.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 215.
+(Font)              scaled to size 8.64006pt on input line 199.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 216.
 
 
 Package Fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -746,11 +748,7 @@ This may cause the page layout to be inconsistent, however.
 
 [1{d:/TEX/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
- <./imgs/location(1).pdf> <./imgs/githubpage.pdf
-
-pdfTeX warning: pdflatex.exe (file ./imgs/githubpage.pdf): PDF inclusion: multi
-ple pdfs with page group included in a single page
-> <./imgs/email(1).pdf
+ <./imgs/location(1).pdf> <./imgs/githubpage.png> <./imgs/email(1).pdf
 
 pdfTeX warning: pdflatex.exe (file ./imgs/email(1).pdf): PDF inclusion: multipl
 e pdfs with page group included in a single page
@@ -763,29 +761,22 @@ pdfTeX warning: pdflatex.exe (file ./imgs/home(1).pdf): PDF inclusion: multiple
 pdfTeX warning: pdflatex.exe (file ./imgs/phone(1).pdf): PDF inclusion: multipl
 e pdfs with page group included in a single page
 >]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 215.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 216.
  (./resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 215.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 215.
-
-
-Package rerunfilecheck Warning: File `resume.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `resume.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  61C5EF837049845DA522314A09F78333;179.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 215.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 216.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 216.
+Package rerunfilecheck Info: File `resume.out' has not changed.
+(rerunfilecheck)             Checksum: 61C5EF837049845DA522314A09F78333;179.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 216.
  ) 
 Here is how much of TeX's memory you used:
- 9097 strings out of 480608
- 132249 string characters out of 5905572
- 397532 words of memory out of 5000000
- 24764 multiletter control sequences out of 15000+600000
+ 9112 strings out of 480608
+ 132368 string characters out of 5905572
+ 397673 words of memory out of 5000000
+ 24770 multiletter control sequences out of 15000+600000
  580541 words of font info for 98 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 37i,20n,45p,454b,410s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 37i,20n,45p,454b,412s stack positions out of 5000i,500n,10000p,200000b,80000s
 {d:/TEX/texlive/2020/texmf-dist/fonts/enc/dvips/ly1/texnansi.enc}<d:/TEX/texl
 ive/2020/texmf-dist/fonts/type1/bitstrea/charter/bchb8a.pfb><d:/TEX/texlive/202
 0/texmf-dist/fonts/type1/bitstrea/charter/bchbi8a.pfb><d:/TEX/texlive/2020/texm
@@ -795,10 +786,10 @@ type1/public/mathdesign/mdbch/md-chb8t.pfb><d:/TEX/texlive/2020/texmf-dist/font
 s/type1/public/mathdesign/mdbch/md-chr7y.pfb><d:/TEX/texlive/2020/texmf-dist/fo
 nts/type1/public/mathdesign/mdbch/md-chr8t.pfb><d:/TEX/texlive/2020/texmf-dist/
 fonts/type1/public/mathdesign/mdbch/md-chri8t.pfb>
-Output written on resume.pdf (1 page, 78336 bytes).
+Output written on resume.pdf (1 page, 94069 bytes).
 PDF statistics:
- 68 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
+ 82 PDF objects out of 1000 (max. 8388607)
+ 64 compressed objects within 1 object stream
  6 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 58 words of extra memory for PDF output out of 10000 (max. 10000000)
 
